@@ -1,0 +1,29 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Html */
+:root {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* Container */
+.container {
+    width: 90%;
+    margin: 10px auto;
+}
+/* span */
+span {
+    display: block;
+}
+p {
+    font-size: 22px;
+    background-color: #9cf59c;
+}
+/* Heading */
+h2 {
+    border-top: 1px solid rgb(182, 182, 182);
+    border-bottom: 1px solid rgb(182, 182, 182);
+    margin-top: 10px;
+}
